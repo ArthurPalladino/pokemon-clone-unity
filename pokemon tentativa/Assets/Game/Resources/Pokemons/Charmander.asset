@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b2cd65995bc1b439ff230b16eeadc3, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  Name: Charmander
+  learnableMoves:
+  - baseMove: {fileID: 11400000, guid: bdcf97251f12d344a8a110ee2f4abe6e, type: 2}
+    level: 1
+  - baseMove: {fileID: 11400000, guid: 07ebcdd3bbd0c8b45bb6c823f0b6ea6e, type: 2}
+    level: 199
+  - baseMove: {fileID: 11400000, guid: 563a0c689e4fc0e479bb7b868ba906cf, type: 2}
+    level: 7
+  description: 
+  frontSprite: {fileID: 21300000, guid: cd259d9d4f8ba2749a16d1cc64d46bec, type: 3}
+  backSprite: {fileID: 21300000, guid: ed8e1d9976a1fd94d961840d8f6e7764, type: 3}
+  pokemonType1: 2
+  pokemonType2: 0
+  maxHp: 39
+  attack: 52
+  defense: 43
+  spAttack: 60
+  spDefense: 50
+  speed: 65

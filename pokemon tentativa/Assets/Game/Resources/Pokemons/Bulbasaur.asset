@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b2cd65995bc1b439ff230b16eeadc3, type: 3}
+  m_Name: Bulbasaur
+  m_EditorClassIdentifier: 
+  Name: Bulbasaur
+  learnableMoves:
+  - baseMove: {fileID: 11400000, guid: bdcf97251f12d344a8a110ee2f4abe6e, type: 2}
+    level: 1
+  - baseMove: {fileID: 11400000, guid: 07ebcdd3bbd0c8b45bb6c823f0b6ea6e, type: 2}
+    level: 4
+  - baseMove: {fileID: 11400000, guid: 5a865c19d605f0541a535810bbcef2e6, type: 2}
+    level: 7
+  - baseMove: {fileID: 11400000, guid: cc1bae1f5c38d7840a01d42f079a50f0, type: 2}
+    level: 7
+  description: 
+  frontSprite: {fileID: 21300000, guid: 0f37bf3cf5680a64d863b5f155b2a597, type: 3}
+  backSprite: {fileID: 21300000, guid: aacaae602a38f884ab9e02e43de3736d, type: 3}
+  pokemonType1: 4
+  pokemonType2: 0
+  maxHp: 45
+  attack: 49
+  defense: 49
+  spAttack: 65
+  spDefense: 65
+  speed: 45

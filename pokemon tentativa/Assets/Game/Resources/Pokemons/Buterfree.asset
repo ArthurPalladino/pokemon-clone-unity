@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35b2cd65995bc1b439ff230b16eeadc3, type: 3}
+  m_Name: Buterfree
+  m_EditorClassIdentifier: 
+  Name: Butterfree
+  learnableMoves:
+  - baseMove: {fileID: 11400000, guid: 2054a53fb25bcbb4bb61739046359c62, type: 2}
+    level: 1
+  - baseMove: {fileID: 11400000, guid: bdcf97251f12d344a8a110ee2f4abe6e, type: 2}
+    level: 1
+  - baseMove: {fileID: 11400000, guid: c776db36766aa994e9dfd97279f35a48, type: 2}
+    level: 1
+  - baseMove: {fileID: 11400000, guid: 07ebcdd3bbd0c8b45bb6c823f0b6ea6e, type: 2}
+    level: 1
+  description: 
+  frontSprite: {fileID: -1540426309290004842, guid: 17584780d864ee5449705f5b582d4684, type: 3}
+  backSprite: {fileID: -1540426309290004842, guid: 8ee74badc11ef6b4db01daf89675ee7b, type: 3}
+  pokemonType1: 13
+  pokemonType2: 5
+  maxHp: 60
+  attack: 45
+  defense: 50
+  spAttack: 90
+  spDefense: 80
+  speed: 70
