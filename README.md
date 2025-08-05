@@ -13,6 +13,14 @@ Este projeto foi iniciado com o objetivo de estudar desenvolvimento de jogos, es
 - 🐾 Pokémons com ataques variados
 - 🔥❄️💤 Status: queimado, congelado, envenenado, dormindo, etc.
 - 🧍 NPCs que interagem com o jogador através de falas simples
+---
+## 📷🧍 Exemplo de NPC
+
+![WhatsApp Image 2025-08-04 at 22 54 11_4d9274ae](https://github.com/user-attachments/assets/f6e91f48-3737-44f7-88ee-1480c82eb586)
+---
+## 📷⚔️ Exemplo de Batalha
+
+![WhatsApp Image 2025-08-04 at 22 50 36_2f0ef170](https://github.com/user-attachments/assets/ad1a374b-6ec0-4945-8fab-52c4d115cce4)
 
 ---
 
@@ -20,8 +28,8 @@ Este projeto foi iniciado com o objetivo de estudar desenvolvimento de jogos, es
 
 > Em desenvolvimento — criado apenas para fins educacionais e sem fins comerciais.
 
----
 
+---
 
 ## 🛠 Tecnologias utilizadas
 
